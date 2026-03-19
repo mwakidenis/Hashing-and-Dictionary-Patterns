@@ -15,22 +15,21 @@ This documentation-first repository teaches:
 ### Core Concepts
 | Topic | Description |
 |-------|-------------|
-| [HashMap Fundamentals](hashmap_fundamentals.md) | Core concepts behind hash tables and dictionaries |
-| [C++ vs Python](cpp_vs_python.md) | Side-by-side language comparison |
-| [Error Handling](error_handling.md) | Managing missing keys and exceptions |
+| [HashMap Fundamentals](hashmap_fundamentals.html) | Core concepts behind hash tables and dictionaries |
+| [C++ vs Python](cpp_vs_python.html) | Side-by-side language comparison |
+| [Error Handling](error_handling.html) | Managing missing keys and exceptions |
 
 ### Interview Preparation
 | Topic | Description |
 |-------|-------------|
-| [Interview Patterns](interview_patterns.md) | Common patterns for technical interviews |
+| [Interview Patterns](interview_patterns.html) | Common patterns for technical interviews |
 
 ### Practice Problems (Conceptual)
 | Problem | Description |
 |---------|-------------|
-| [Two Sum](problems/two_sum.md) | Classic hash map problem |
-<span style="color: #888; font-size: 0.9em;">code by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a></span>
-| [Anagrams](problems/anagrams.md) | Grouping and frequency counting |
-| [Frequency Counter](problems/frequency.md) | Element frequency analysis |
+| [Two Sum](problems/two_sum.html) | Classic hash map problem |
+| [Anagrams](problems/anagrams.html) | Grouping and frequency counting |
+| [Frequency Counter](problems/frequency.html) | Element frequency analysis |
 
 ---
 
