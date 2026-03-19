@@ -1,0 +1,303 @@
+# 📘 HashMaps & Dictionaries (C++ ↔ Python) — Documentation-Only Repo
+
+## 🎯 Goal
+Create a **documentation-first repository** that teaches:
+- HashMaps / Dictionaries
+- Constant-time complexity (O(1)
+- Error handling concepts
+- Interview patterns (Google & Microsoft)
+
+⚠️ IMPORTANT:
+- Do NOT include any code snippets
+- Focus purely on **conceptual explanations**
+- Use **side-by-side comparisons (C++ vs Python)** everywhere
+- Use **UML diagrams, flowcharts, and visual aids** to explain concepts
+
+---
+
+## 🧱 Step 1: Documentation Structure
+
+Create `/docs` folder with:
+
+``` id="docstruct"
+/docs
+  index.md
+  hashmap_fundamentals.md
+  cpp_vs_python.md
+  error_handling.md
+  interview_patterns.md
+  diagrams/
+  problems/
+    two_sum.md
+    anagrams.md
+    frequency.md
+📐 Step 2: Mandatory Page Layout (ALL FILES)
+
+Every page MUST follow this structure:
+
+1. Title
+2. Concept Explanation (Text)
+3. Visual Diagram Section (MANDATORY where applicable)
+
+Use:
+
+Flowcharts
+
+UML diagrams
+
+Concept diagrams
+
+Example formats:
+
+Flow Diagram
+[Input] → [Hash Function] → [Index Computation] → [Storage / Lookup]
+UML-style Concept Diagram
+HashMap
+ ├── Key
+ ├── Hash Function
+ ├── Bucket Array
+ └── Collision Handling
+4. Side-by-Side Comparison Table
+| C++ Perspective | Python Perspective |
+|----------------|-------------------|
+| Explanation of how concept works in C++ | Equivalent explanation in Python |
+| Behavior details | Equivalent behavior |
+| Performance characteristics | Equivalent performance |
+5. Key Differences Section
+
+Bullet points highlighting differences
+
+6. Interview Insight Section
+
+What interviewers expect
+
+Common mistakes
+
+Optimization thinking
+
+⚡ Step 3: Core Content Requirements
+1. HashMap Fundamentals (hashmap_fundamentals.md)
+
+Include diagrams:
+
+Hashing Flow
+Key → Hash Function → Index → Bucket → Value
+Collision Handling Diagram
+Bucket
+ ├── Entry 1
+ ├── Entry 2 (collision)
+ └── Entry 3
+
+Explain:
+
+What a HashMap is
+
+Hashing concept
+
+Why operations are O(1) on average
+
+Collisions and resolution
+
+Worst-case scenarios
+
+2. Constant-Time Complexity Section
+
+Add conceptual diagram:
+
+Operation → Direct Access → Result (O(1))
+
+Explain:
+
+Meaning of O(1)
+
+When it holds vs when it breaks
+
+Load factor concept
+
+Real-world implications
+
+3. C++ vs Python (cpp_vs_python.md)
+
+Add comparison diagram:
+
+Comparison
+ ├── Performance
+ ├── Memory
+ ├── Safety
+ ├── Readability
+ └── Flexibility
+
+Explain:
+
+Syntax philosophy
+
+Memory handling
+
+Safety
+
+Performance
+
+Readability
+
+4. Error Handling (error_handling.md)
+
+Include flow diagram:
+
+Access Key → Exists? → Yes → Return Value
+                     → No → Handle Error
+
+Explain:
+
+C++:
+
+Exception handling concepts
+
+Missing key behavior
+
+Defensive programming
+
+Python:
+
+Exception-driven handling
+
+Safe access patterns
+
+Runtime risks
+
+🧠 Step 4: Interview Problems (Conceptual Only)
+
+Each problem file must include:
+
+Problem Flow Diagram (MANDATORY)
+
+Example:
+
+Input Array → Iterate → Store Seen Values → Check Condition → Return Result
+Structure:
+Problem Description
+
+Plain English explanation
+
+Naive Approach
+
+Step-by-step logic (no code)
+
+Optimized HashMap Approach
+
+Conceptual steps
+
+Complexity Analysis
+
+Time complexity explanation
+
+Space complexity explanation
+
+Side-by-Side Thinking
+| C++ Thinking | Python Thinking |
+|-------------|----------------|
+| How a C++ developer approaches it | How a Python developer approaches it |
+Edge Cases
+
+Missing values
+
+Duplicate data
+
+Empty input
+
+Large input size
+
+Interview Insights
+
+Why it's commonly asked
+
+Variations by Google/Microsoft
+
+Follow-up questions
+
+📚 Step 5: Writing Style Rules
+
+No code blocks at all
+
+Use diagrams wherever possible
+
+Prefer visual explanation over long text
+
+Keep both sides balanced
+
+Focus on intuition and mental models
+
+🤝 Step 6: CONTRIBUTING.md
+
+Include:
+
+Add diagrams for new concepts
+
+Maintain side-by-side structure
+
+Keep explanations beginner-friendly
+
+Enforce no-code rule strictly
+
+⚖️ Step 7: LICENSE
+
+Use MIT License
+
+🛡️ Step 8: CODE_OF_CONDUCT.md
+
+Include:
+
+Respectful collaboration
+
+Inclusive environment
+
+Clear contribution expectations
+
+🔐 Step 9: SECURITY.md
+
+Include:
+
+Reporting vulnerabilities
+
+Responsible disclosure
+
+Supported versions
+
+🌐 Step 10: Optional Website
+
+Use:
+
+GitHub Pages OR
+
+MkDocs
+
+Ensure:
+
+Tables render cleanly
+
+Diagrams are readable
+
+Layout supports side-by-side learning
+
+🎨 Step 11: Visual Consistency Rules
+
+Use arrows (→) for flows
+
+Use tree structures for hierarchy
+
+Keep diagrams simple and readable
+
+Avoid clutter
+
+✅ Final Outcome
+
+A repository that:
+
+Teaches HashMaps deeply with code
+
+Uses visual + conceptual learning
+
+Provides C++ ↔ Python mental mapping
+
+Prepares for top tech interviews
+
+Feels like a modern interactive textbook

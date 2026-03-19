@@ -329,9 +329,4 @@ When You See a HashMap Problem:
    │  All duplicates?                    │
    └─────────────────────────────────────┘
 ```
-<div style="color: #888; font-size: 0.9em; margin-top: 2em;">
-Project by 7ions &mdash; Repo maintained by <a href="https://github.com/mwakidenis" style="color: #888;">mwakidenis</a>
-</div>
-<div style="color: #888; font-size: 0.9em; margin-top: 2em;">
-code by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a>
-</div>
+<div style="color: #888; font-size: 0.9em; margin-top: 2em;">Repo maintained by <a href="https://github.com/mwakidenis" style="color: #888;">mwakidenis</a></div>

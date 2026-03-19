@@ -38,7 +38,6 @@
 C++ Syntax Flow:
 ┌─────────────────┐
 │ unordered_map   │  ← Specify container type
-<span style="color: #888; font-size: 0.9em;">code created for 7ions by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a></span>
 <span style="color: #888; font-size: 0.9em;">code by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a></span>
 │ <string, int>   │  ← Specify key-value types
 │ myMap;          │  ← Variable declaration
@@ -51,7 +50,7 @@ Python Syntax Flow:
 └─────────────────┘
 ```
 <div style="color: #888; font-size: 0.9em; margin-top: 2em;">
-Project by 7ions &mdash; Repo maintained by <a href="https://github.com/mwakidenis" style="color: #888;">mwakidenis</a>
+Repo maintained by <a href="https://github.com/mwakidenis" style="color: #888;">mwakidenis</a>
 </div>
 
 ---
