@@ -28,10 +28,7 @@ This documentation-first repository teaches:
 | Problem | Description |
 |---------|-------------|
 | [Two Sum](problems/two_sum.md) | Classic hash map problem |
-<div style="color: #888; font-size: 0.9em; margin-top: 2em;">
-Project by 7ions &mdash; Repo maintained by <a href="https://github.com/mwakidenis" style="color: #888;">mwakidenis</a>
-</div>
-<span style="color: #888; font-size: 0.9em;">Code by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a>, repo maintained by 7ions</span>
+<span style="color: #888; font-size: 0.9em;">code by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a></span>
 | [Anagrams](problems/anagrams.md) | Grouping and frequency counting |
 | [Frequency Counter](problems/frequency.md) | Element frequency analysis |
 
