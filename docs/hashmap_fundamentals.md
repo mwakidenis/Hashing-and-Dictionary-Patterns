@@ -1,3 +1,11 @@
+IMPORTANT:
+- include code snippets
+- Focus purely on **conceptual explanations**
+- Use **side-by-side comparisons (C++ vs Python)** everywhere
+- Use **UML diagrams, flowcharts, and visual aids** to explain concepts
+
+---
+
 # HashMap Fundamentals
 
 ## What is a HashMap?
@@ -6,7 +14,7 @@ A HashMap (also known as hash table, dictionary, or associative array) is a data
 
 ---
 
-## 🔄 Hashing Flow Diagram
+## Hashing Flow Diagram
 
 ```
 ┌──────────┐     ┌───────────────┐     ┌─────────┐     ┌─────────┐     ┌──────────┐
@@ -27,7 +35,7 @@ A HashMap (also known as hash table, dictionary, or associative array) is a data
 
 ---
 
-## ⚡ Constant-Time Complexity (O(1))
+## Constant-Time Complexity (O(1))
 
 ### What Does O(1) Mean?
 
@@ -68,7 +76,7 @@ Project by 7ions &mdash; Repo maintained by <a href="https://github.com/mwakiden
 
 ---
 
-## 💥 Collision Handling
+## Collision Handling
 
 ### What is a Collision?
 
@@ -80,7 +88,7 @@ A collision occurs when two different keys produce the same hash index.
 ├────────────────────────────────────────────────────────────────┤
 │                                                                │
 │   Key: "apple"  ──▶  Hash: 42  ──▶  Index: 2                   │
-│   Key: "banana" ──▶  Hash: 87  ──▶  Index: 2  ⚠️ COLLISION!   │
+│   Key: "banana" ──▶  Hash: 87  ──▶  Index: 2  COLLISION!   │
 │                                                                │
 │   Bucket Array:                                               │
 │   ┌───┬───┬───┬───┬───┬───┐                                   │
@@ -118,7 +126,7 @@ Step 2: Hash("dog") = Index 3 → Occupied → Try 4 → Occupied → Try 5 → 
 
 ---
 
-## ⚖️ C++ vs Python Comparison
+## C++ vs Python Comparison
 
 | Aspect | C++ Perspective | Python Perspective |
 |--------|------------------|---------------------|
@@ -142,7 +150,7 @@ C++ unordered_map:          Python dict:
 
 ---
 
-## 🔑 Key Differences
+## Key Differences
 
 - **C++** requires explicit type specification
 - **Python** is dynamically typed
@@ -153,7 +161,7 @@ C++ unordered_map:          Python dict:
 
 ---
 
-## 🎯 Interview Insights
+## Interview Insights
 
 ### What Interviewers Look For
 

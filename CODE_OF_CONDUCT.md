@@ -14,8 +14,8 @@ and our community a harassment-free experience for everyone.
 
 Examples of behavior that contributes to a positive environment include:
 
-- **Respectful Communication** - Use welcoming and inclusive language
-- **Constructive Feedback** - Focus on ideas, not individuals
+## Our Standards
+
 - **Collaboration** - Work together to improve the documentation
 - **Acknowledgment** - Give credit to others' contributions
 - **Patience** - Be understanding with beginners and newcomers
@@ -36,8 +36,8 @@ The following behaviors are considered unacceptable:
 
 Project maintainers are responsible for:
 
-- **Clarifying Standards** - Defining what constitutes acceptable behavior
-- **Enforcing** - Applying this code fairly and consistently
+## Our Responsibilities
+
 - **Removing** - Removing contributions that don't meet these standards
 - **Banning** - Blocking contributors who violate this code
 
@@ -45,7 +45,6 @@ Project maintainers are responsible for:
 
 ## ⚖️ Enforcement
 
-### Reporting
 
 If you witness or experience violations:
 1. Contact the repository maintainers
@@ -69,7 +68,6 @@ Depending on severity:
 ---
 
 ## 🌐 Scope
-
 This Code of Conduct applies to:
 - All repository contributions
 - Issue discussions
@@ -78,12 +76,10 @@ This Code of Conduct applies to:
 
 ---
 
-## 🙏 Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant.
 
 ---
-
 ## ❓ Questions?
 
 If you have questions about this code of conduct:

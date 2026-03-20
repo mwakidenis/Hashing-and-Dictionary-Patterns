@@ -6,13 +6,13 @@ We actively support and provide security updates for the following versions:
 
 | Version | Supported | Notes |
 |---------|-----------|-------|
-| 1.0.x   | ✅ Yes    | Current stable release |
-| 0.9.x   | ⚠️ Limited | Security fixes only |
-| < 0.9   | ❌ No     | Not supported |
+| 1.0.x   | Yes    | Current stable release |
+| 0.9.x   | Limited | Security fixes only |
+| < 0.9   | No     | Not supported |
 
 ---
 
-## 🔐 Reporting Vulnerabilities
+## Reporting Vulnerabilities
 
 ### How to Report
 
@@ -33,7 +33,7 @@ When reporting, please provide:
 
 ---
 
-## 🔒 Security Considerations
+## Security Considerations
 
 ### HashMap-Specific Concerns
 

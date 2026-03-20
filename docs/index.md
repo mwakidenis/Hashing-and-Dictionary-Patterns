@@ -1,6 +1,6 @@
-# 📘 HashMaps & Dictionaries (C++ ↔ Python) — Documentation Repository
+# HashMaps & Dictionaries (C++ ↔ Python) — Documentation Repository
 
-## 🎯 Goal
+## Goal
 
 This documentation-first repository teaches:
 - HashMaps / Dictionaries
@@ -10,7 +10,7 @@ This documentation-first repository teaches:
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 ### Core Concepts
 | Topic | Description |
@@ -33,7 +33,7 @@ This documentation-first repository teaches:
 
 ---
 
-## 🗺️ Learning Path
+## Learning Path
 
 ```
                     ┌─────────────────────┐
@@ -68,10 +68,10 @@ This documentation-first repository teaches:
 4. **Practice Interview Problems** - Apply concepts to common problems
 
 Each page includes:
-- 📝 Concept explanations with visual diagrams
-- ⚖️ Side-by-side C++ vs Python comparisons
-- 🎯 Interview insights and common pitfalls
-- 💡 Key differences highlighted
+    - Concept explanations with visual diagrams
+    - Side-by-side C++ vs Python comparisons
+    - Interview insights and common pitfalls
+    - Key differences highlighted
 
 ---
 

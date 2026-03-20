@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this documentation repository!
 
 ---
 
-## 📋 Contribution Guidelines
+## Contribution Guidelines
 
 ### What We're Looking For
 
@@ -23,7 +23,7 @@ We welcome contributions that help learners understand:
 
 ---
 
-## 🎨 Visual Guidelines
+## Visual Guidelines
 
 ### Diagram Standards
 
