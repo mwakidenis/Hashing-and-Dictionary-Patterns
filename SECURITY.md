@@ -79,7 +79,7 @@ This security policy applies to:
 
 For security-related inquiries:
 - Open a private issue
-- Email: [maintainer contact]
+- Email: [mwakidenice@gmail.com]
 
 ---
 
