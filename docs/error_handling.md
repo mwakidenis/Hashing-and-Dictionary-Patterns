@@ -38,8 +38,8 @@ Handling missing keys and runtime errors is crucial when working with hash maps.
 ---
 
 ## 🐞 C++ Error Handling
-<span style="color: #888; font-size: 0.9em;">code created>
-<span style="color: #888; font-size: 0.9em;">code by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a></span>
+<span style="color: #888; font-size: 0.9em;">code created
+<span style="color: #888; font-size: 0.9em;"> by <a href="https://github.com/mwakidenis" target="_blank">mwakidenis</a></span>
 
 ### Approaches to Safe Access
 
